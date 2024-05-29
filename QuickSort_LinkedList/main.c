@@ -2,6 +2,12 @@
 #include <stdio.h>
 #include <time.h>
 
+/*
+Author: Guilherme Santos
+Date: 05/29/2024
+
+*/
+
 struct listNode {
     int data;
     struct listNode *nextPtr;
